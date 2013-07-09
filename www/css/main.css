@@ -82,7 +82,7 @@ nav a:hover {
 }
 
 .footer-container{
-    position: fixed;
+    position: fixed; /* Relative remplacé par Fixed */
     width: 100%;
     bottom: 0;
 }
